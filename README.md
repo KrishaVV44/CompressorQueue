@@ -1,5 +1,10 @@
 ## Queue Compressor Bot (For Single Users)
 
+
+### Koyeb Deploy
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Krishavv44/CompressorQueue&branch=main&name=compbott)
+
+
 ### Fork Repo Then click on below button of ur fork repo.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
